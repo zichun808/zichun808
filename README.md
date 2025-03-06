@@ -6,10 +6,6 @@
 
 ###
 
-<p align="center">I'm zichun, a student from Taiwan, passionate about programming and cybersecurity.</p>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/zichun808/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
