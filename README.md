@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🚀 I specialize in C++, followed by Python, and I'm currently developing a Discord Bot.<br><br>📚 I'm actively learning Algorithms and Data Structures to sharpen my problem-solving skills.<br><br>🔐 In cybersecurity, I have experience in Web and Crypto, while also exploring Pwn and Reverse .<br
+<p align="left">🚀 I specialize in C++, followed by Python, and  I'm currently learning Machine Learning.<br><br>📚 I'm actively learning Algorithms and Data Structures to sharpen my problem-solving skills.<br><br>🔐 In cybersecurity, I have experience in Web and Crypto, while also exploring Pwn and Reverse .</p>
 
 ###
 
